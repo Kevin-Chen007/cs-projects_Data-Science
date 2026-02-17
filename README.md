@@ -12,4 +12,4 @@ The presentation also provides practical recommendations for different audiences
 - **AI researchers** seeking career guidance  
 - **Individuals** aiming to work in regulated sectors affected by AI  
 
-[Download Presentation](Semester 2 Project -  AI’s Impact on Industries.pdf)
+[Download Presentation](Semester_2_Project-AI’s_Impact_on_Industries.pdf)
